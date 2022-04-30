@@ -1,24 +1,5 @@
-# project-generator
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+use the Vue 3 Composition API
+call an API using Vue
+Advanced list filtering in JavaScript
+use filters in Vue 3
+use Bulma with Vue
